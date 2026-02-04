@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: prototype.interface.maternity-allowance-prototype
-  title: maternity-allowance-prototype
+  title: Maternity-Allowance-Prototype
   description: |
     TODO: add description for maternity-allowance-prototype.
 
